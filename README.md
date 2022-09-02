@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![MarilyneDruart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarilyneDruart&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarilyneDruart&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![MarilyneDruart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarilyneDruart&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
